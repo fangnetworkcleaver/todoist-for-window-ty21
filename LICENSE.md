@@ -1,4 +1,4 @@
-# 
+# Enhance Todoist for Windows with updated Plugin for Todoist for Windows - subtasks and search-functionality, the #1 plugin. Includes subtasks and search-functionality for a
 
 
 
